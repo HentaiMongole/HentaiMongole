@@ -2,7 +2,7 @@
 - 👀 I’m interested in DTUN
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on DTUN
-- 📫 How to reach me Tentacles
+- 📫 How to reach me ...
 
 <!---
 HentaiMongole/HentaiMongole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
